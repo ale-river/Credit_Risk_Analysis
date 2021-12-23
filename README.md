@@ -36,7 +36,7 @@ Precision Low Risk: 100%
 Recall High Risk: 91%
 Recall Low Risk: 93%
 
-![Ensemble_Adaboost_Classifier]()
+![Ensemble_Adaboost_Classifier](images/Ensemble%20AdaBoost%20Classifier.png)
 
 ### Random Forest Classifier
 Accuracy Score: 64.81%
@@ -45,7 +45,7 @@ Precision Low Risk: 100%
 Recall High Risk: 30%
 Recall Low Risk: 93%
 
-![Random_Forest_Classifier]()
+![Random_Forest_Classifier](images/Random%20Forest%20Classifier.png)
 
 * Credit Risk Resampling
 
@@ -56,7 +56,7 @@ Precision Low Risk: 100%
 Recall High Risk: 66%
 Recall Low Risk: 69%
 
-![Naive_Random_Oversampling]()
+![Naive_Random_Oversampling](images/Naive%20Random%20Oversampling.png)
 
 ### SMOTE Oversampling
 Accuracy Score: 67.71%
@@ -65,7 +65,7 @@ Precision Low Risk: 100%
 Recall High Risk: 70%
 Recall Low Risk: 65%
 
-![SMOTE_Oversampling]()
+![SMOTE_Oversampling](images/SMOTE%20Oversampling.png)
 
 ### SMOTEENN Analysis
 Accuracy Score: 68%
@@ -74,7 +74,7 @@ Precision Low Risk: 100%
 Recall High Risk: 76%
 Recall Low Risk: 60%
 
-![SMOTEENN_Analysis]()
+![SMOTEENN_Analysis](images/SMOTEENN%20Analysis.png)
 
 ### Undersampling Analysis
 Accuracy Score: 51.94%
@@ -83,7 +83,7 @@ Precision Low Risk: 100%
 Recall High Risk: 64%
 Recall Low Risk: 40%
 
-![Undersampling_Analysis]()
+![Undersampling_Analysis](images/Undersampling%20Analysis.png)
 
 ## Summary :raised_back_of_hand:
 
